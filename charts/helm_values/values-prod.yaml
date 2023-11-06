@@ -4,7 +4,7 @@ namespace: "prod"
 # Prefix for the repository where Helm charts are hosted
 repository_prefix: "ardhmd"
 
-visits:
+vets:
   # Hostname or IP address of the database server for the 'visits' service
   dbhost: "cgtn3gql0yfa.eu-west-3.rds.amazonaws.com:3306"
   # Name of the database for the 'visits' service
